@@ -97,7 +97,7 @@ Estos planes no están garantizados.
 ## 🤝 Contribuciones
 
 Por el momento, el proyecto es mantenido por su creador.  
-Las sugerencias son bienvenidas, pero no se aceptan contribuciones directas aún.
+Las sugerencias son bienvenidas, solo se aceptan contribuciones directas desde discord en el servidor oficial de CreeperHost.
 
 ---
 
@@ -115,4 +115,12 @@ CreeperHost nace como un proyecto de aprendizaje, experimentación y apoyo a la 
 Si algo falla, se arregla.  
 Si algo se cae, se reconstruye.
 
-Proyecto pequeño, ideas grandes.
+Proyecto pequeño, ideas grandes. 
+
+Si tiene una sugerencia o necesita ayuda, escríbanos a: 
+
+help@creeperhost.anonaddy.me
+
+Gracias por leer todo este texto, por PawsyYT. 
+YT: https://www.youtube.com/@pawsyinminecraft
+Servidor de Discord de CreeperHost: https://discord.gg/WXAGpeZvdu
