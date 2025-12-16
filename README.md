@@ -33,7 +33,7 @@ El formulario recopila información como:
 Las respuestas se almacenan y gestionan desde forms.app para su revisión manual.
 
 📬 Correo de contacto:  
-**help@creeperhost.anonaddy.com**
+**help@creeperhost.anonaddy.me**
 
 ---
 
